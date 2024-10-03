@@ -1,6 +1,6 @@
 const status = "AUTOMATIC";
-const botName = "Ultimate Samp Bot";
-const Text = "Mortex Crew";
+const botName = "Anti Security Bot";
+const Text = "securitybot";
 const version = "Latest@ v20.12.2";
 const startTime = Date.now();
 
